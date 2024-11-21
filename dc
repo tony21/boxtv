@@ -2,7 +2,7 @@
   "storeHouse": [
     {
       "sourceName": "🏆TT本地收集仓",
-      "sourceUrl": "https://gitee.com/tony21/tv_box/raw/master/repo/tt_local"
+      "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/tony21/boxtv/refs/heads/main/repo/tt_loc"
     },
     {
       "sourceName": "🏆一木仓",
