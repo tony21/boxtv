@@ -1,4 +1,4 @@
-//ghproxy.com替换为ghproxy.typecho.ltd
+//ghproxy.com替换
 
 {
   "urls": [
@@ -108,7 +108,7 @@
       "name": "❺骚 0"
     },
     {
-      "url": "https://ghproxy.typecho.ltd/https://raw.githubusercontent.com/tony21/boxtv/refs/heads/main/json/%E4%B8%80%E6%9C%A8%E8%87%AA%E7%94%A8cp",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/tony21/boxtv/refs/heads/main/json/%E4%B8%80%E6%9C%A8%E8%87%AA%E7%94%A8cp",
       "name": "❺一木自用"
     },
     {
